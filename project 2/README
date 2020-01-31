@@ -1,20 +1,15 @@
 Name:		Prathamesh N. Lonkar
-B-Number:	B00811727
 Email:		plonkar1@binghamton.edu
 
+Requirements:
+1.) NodeJs: 
+link:
+https://nodejs.org/en/download/
+2.)MongoDB: 
+https://docs.mongodb.com/manual/administration/install-on-linux/
+
 In this project I have mainly used the mongo functions to add and find the data.
-
 In each of the functions i have used the AppError method as specified by professor to throw any error and have also used the same method for validation.
-
-I have basically reffered to Prof. Umrigar Project 1 solution and the user-store file to make this project the links of the two are as follows:
-
-https://zdu.binghamton.edu/cs544/projects/prj1-sol/sensors.js
-
-https://zdu.binghamton.edu/cs544/slides/users-store/users-store.pdf
-
 In this project i have declared each collection as this and am accessing them to retrieve any data or find any data
-
-For the findSensorData function i have used Prof. Umrigar's logic to impliment my find function
-
 I have also referred to the the official mongo website to understand concepts of mongo functions
 
