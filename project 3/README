@@ -1,0 +1,20 @@
+Name:		Prathamesh Nitin Lonkar
+B-Number:	B00811727
+Email:		plonkar1@binghamton.edu
+
+For this project i have created nine functions each for each request.
+I have mostly reffered to prof. Umrigars Example code given in the class, link is as follows:
+
+https://zdu.binghamton.edu/cs544/slides/users-ws/code/user-ws/user-ws.js?colorize=true
+
+I have used functions from the above example code to create this project.
+
+In each of the function I have used RegEx for the next prev links which are to be appended in the result.
+I have reffered the logic from the following link:
+
+https://stackoverflow.com/questions/14761954/javascript-replace-word-if-it-occurs-otherwise-append-text-to-the-end-of-a-str
+
+For the post functions I have used code from the example code given by professor.
+In the sensordataByIdTs function I am sorting the data by the given timestamp as we only need one result and the sensors.js file is sending 5, I considered sending count as 1 to the sensors.js file but it didn't seem to be the right approach.
+
+
